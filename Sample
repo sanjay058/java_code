@@ -1,0 +1,192 @@
+
+SANJAY KUMAR
+Designation: Test Manager
+E-mail  :sanjaykumar0828@gmail.com
+
+Mobile : +91-9590535850
+
+
+PROFESSIONALSUMMARY	
+•	Having 9+ years of IT experience with strong skills in Software Testing.
+•	Experience in working with Selenium WebDriver using Core Java, Cucumber, TestNG, POI API.
+•	Having solid experience in Test Automation framework development/Architecture & Test Scripts generations, Reviewing Test Scripts code based on the Requirements.
+•	Strong experience in API testing using Rest Assured.
+•	Experience in Mobile application automation testing using Appium.
+•	Experience in working on Page Object Model Design pattern with Hybrid framework.
+•	Experience in identifying object locators and creating PageFactory for all the pages.
+•	Extensive work experience in RESTful API Web Service testing, web application testing and mobile application testing.
+•	Maintenance of continuous Integration(CI) using Jenkins and Implementation of CI pipeline.
+•	Estimating, prioritizing, planning and coordinating testing activities.
+•	Having experience in Agile -Scrum and waterfall development environment.
+•	Experience in Behavior Driven Development (BDD).
+•	Experience in vSphere/ESXi Host Profiles Java API testing.
+•	Working experience in EMM, Virtualization, CRM, Ecommerce and Mobile domain.
+•	Proficient in vSphere product deployment and configuration.
+•	Accustomed to work in a team environment with tight schedules and capable of working efficiently under pressure.
+•	Strong problem-solving skills, instrumental in providing key inputs to the application development teams, architects and business analysts.
+
+TECHNICALSKILLS	
+
+Automation Tools	: Selenium Webdriver, Appium, Cucumber, TestNG, Junit, POI API, RestAssured
+Operating Systems	: Linux/Windows/Android
+Languages	: Core Java, Spring DI, Ruby, Gherkin, HTML, Groovy
+Frameworks	: Hybrid, BDD
+Server	: Dell/HP/IBM Server
+Other Tools	: IntelliJ, Putty, TightVNC, Bugzilla, HP Quality Centre, Jenkins, CAT, Jira,
+     Stash, Confluence, Bitbucket, Maven, Firebug, Xpath finder, Bamboo
+Configuration Tools	:  Git, Perforce, VSS
+
+INDUSTRYEXPERIENCE	
+
+Company	Duration	Designation
+Standard Chartered Bank 	June’18 – Till date	Test Manager
+Harman (a Samsung Company)	July’ 15 - June’18	Lead Product Engineer
+Microsoft (payroll Marquis Technologies Pvt. Ltd.)	April ’14 - June ‘15	S/W Test Engineer
+Nokia (payroll Marquis Technologies Pvt. Ltd.)	April ’12 - March ‘14	S/W Test Engineer
+Aryaan Solutions	Aug ‘09 - April ‘12	S/W Test Engineer
+
+
+PROJECTSEXECUTED	
+
+PROJECT NAME – WorkBench
+DESCRIPTION - WorkBench is CB and CIB’s strategic CRM platform to enable client engagement staff to have a holistic global client view across all product segments.
+Duration: June’18 – Till date
+Tools/IDEs used: Rest-Assured, IntelliJ, SeleniumWebDriver, Cucumber, SQL, Git, Jenkins, Confluence, VxBitbucket, Jira, Putty
+Language: Java, Gherkin
+
+Responsibilities
+•	Developed API Test automation framework using BDD and Rest Assured.
+•	Enhancing the existing UI test automation framework by adding project related utilities.
+•	Automating test cases written and executing as part of new feature testing, and enabling automated regression runs for subsequent releases.
+•	Continuously improving the QA test coverage by adding scheduler-based and more tests.
+•	Work closely with our developers to create automated tests for new features.
+•	Participating and helping in the planning of new features by providing a quality perspective in all our discussions.
+•	Extensively participating in code review and solution definition discussions.
+•	Filing bug and follow up on the bug until a resolution is reached
+•	Mentoring new joiners.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+PROJECT NAME – AirWatch Google EMM
+CLIENT – VMware AirWatch Software India Pvt Ltd
+DESCRIPTION - VMware AirWatch is a provider of enterprise mobility management (EMM) software and standalone management systems for content, applications and email. http://www.air-watch.com/
+Duration: Aug’16 – June’18
+Tools/IDEs used: Selenium WebDriver, Cucumber, MySQL, Eclipse/RubyMine, Watir, Git, Jenkins, Stash, Bamboo, Jira
+Language: Java, Ruby, Gherkin
+
+Responsibilities
+•	Automating test cases written and executed as part of new feature testing, and enabling automated regression runs for subsequent releases.
+•	Enhanced the existing test framework by adding project related utility.
+•	Work closely with our developers to create automated tests for new features.
+•	Participate and help in the planning of new features by providing a quality perspective in all our discussions.
+•	Estimating, prioritizing, planning and coordinating testing activities
+•	Handling customer escalations for Console, android and android for work.
+•	Involved in Migration, Feature Pack, Customer flow, Smoke, Fresh Install, Acceptance, RESTful webservice and Regression testing.
+•	Filed bug and follow up on the bug until a resolution is reached
+-----------------------------------------------------------------------------------------------------------------------------------
+PROJECT NAME – vSphere HostProfiles
+CLIENT - VMware Software India Pvt Ltd
+DESCRIPTION - The Host Profiles feature creates a profile that encapsulates the host configuration and helps to manage the host configuration, especially in environments where an administrator manages multiple hosts or clusters in vCenter Server. 
+Profile can be used to validate the configuration of a host by checking compliance of a host or cluster against the Host Profile that is associated with that host or cluster.
+Duration: July ’15 –Aug ‘16
+Tools/IDEs used: SeleniumWebdriver, Rest-Assured TestNG, Eclipse IDE, Perforce, Jenkins, Review Board, CAT, ANT
+Language: Core Java            
+
+Responsibilities
+•	Expand our test automation framework for our web applications.
+•	Automating test cases written and executed as part of new feature testing, and enabling automated regression runs for subsequent releases.
+•	Worked on API automation framework development and architecture.
+•	Extensively participates in code review and solution definition discussions.
+•	Worked on PMT from test design and automation for the New PMT:BulkAnswerFiles.
+•	Ability to debug and troubleshoot issues related to HostProfiles.
+•	Involved in engineering meetings and identify gaps in existing tests.
+•	Continuously improve the QA test coverage by adding more tests.
+•	File bug and follow up on the bug until a resolution is reached.
+•	Develop innovative ideas and solutions for projects.
+-----------------------------------------------------------------------------------------------------------------------------------
+PROJECT NAME: Nokia X Series Mobile
+CLIENT: Microsoft Mobile Oy
+DESCRIPTION: Nokia X Series is the only smart phone of Nokia which flows smoothly between all the desired Android™ apps with Fastlane. It has features of the entire android with most popular Microsoft Apps such as Skype, OneDrive and Outlook.
+Duration: April ‘14 – June ‘15
+Tools/IDEs used: TestNG, VSS, Eclipse IDE, Selenium 2.0, Appium, Page object Model, Adb command
+Language: Core Java
+
+Responsibilities
+•	Developed test plan, test cases for various features like Native Apps and automated the same using Selenium and Appium.
+•	Filing defects in the Defect Tracking System and driving them to closure.
+•	Continuously improve the QA test coverage by adding more tests.
+•	Involved in test automation framework development.
+•	Attended Engineering meetings and identify gaps in existing tests
+•	Mentoring new joiners.
+-----------------------------------------------------------------------------------------------------------------------------------
+PROJECT NAME: Nokia Survey Tool
+CLIENT: Nokia India Pvt. Ltd
+DESCRIPTION: A web app which is used to collect data from all the end users that is related to the following: Calls, Device Performance, Battery Backup, Usability, User experience and so on. The tool enables the end user to share their ideas and suggestions which is used to held the engineering team to analyse and scale up to the market trend.
+Duration: July’13 –March ‘14
+Tools/IDEs used: TestNG, VSS, Eclipse IDE, Selenium 2.0, Page Object Model
+Language: Core Java
+
+Responsibilities
+•	Responsible to gather requirement from the dev team.
+•	Developed test automation framework for our web application.
+•	Automated end to end test to verify functionality using Selenium.
+•	Filing defects in the Defect Tracking System and driving them to closure
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
+PROJECT NAME: Nokia Asha 50x Series Mobile
+CLIENT: Nokia India Pvt. Ltd
+DESCRIPTION: Asha 50x phone is the smart phone based on Nokia NG OS. It has to fastlane pins all of your latest calls, music, apps, Facebook updates and tweets onto a single screen which serves the awesome experience to customer.
+Duration: May’12 –June ‘13
+Tools/IDEs used: Phoenix, Austere, Bugzilla, IBM Lotus
+
+Responsibilities
+•	Develop automated tests to replicate real-world scenarios that plug into a regression test harness
+•	Responsible for Bug reporting Using Bugzilla, generating reports and review on a regular basis.
+•	Provided Support to Development Team and verified fixed defects.
+-----------------------------------------------------------------------------------------------------------------------------------
+PROJECT NAME: NASCO CRM
+DESCRIPTION: NASCO CRM is a web-based application. This application is used to manage customer relationship.
+Duration: Jan’11 – April ‘12
+Tools/IDEs used: Jira
+
+Responsibilities
+•	Experience in debugging and modification of existing scripts.
+•	Add test cases to our current library
+•	Coordinate and carry out manual test plans and documentation for our web applications
+•	Verify the Automated test Result, and Logging the Defect in JIRA and updating status to the higher management
+
+-----------------------------------------------------------------------------------------------------------------------------------
+PROJECT NAME: Digite
+DESCRIPTION: Digité is a Web-based application, which is Ubiquitous, accessible from anywhere, and combines powerful enterprise Program and Process management.
+Duration: Aug ’09 –Nov ‘10 Tools/IDEs used: Jira 
+
+Responsibilities
+•	Executing the Test cases and updating the test results to the team.
+•	Involved in Functional and GUI testing.
+•	Executing Test Cases and Reporting defects in Jira.
+
+EDUCATIONAL QUALIFICATION	
+•	B.Tech (Electronics & Telecomm.) in 2009, Biju Patnaik University Of Technology
+•	10+2 from CBSE Board, BNS DAV Public School, Jharkhand
+•	10th from CBSE Board, BNS DAV Public School, Jharkhand
+
+AWARDS ANDRECOGNITIONS	
+
+•	Awarded Extra Milestone Q3,2016
+•	Awarded Best Employee of Q4,2013
+•	Many email based and word of mouth appreciations by Project Managers, Clients and internal stakeholders
+
+PERSONAL DETAILS	
+
+Name	: Sanjay Kumar
+Father’s Name	: Budhan Mahato
+Gender	: Male
+Religion	: Hindu
+Marital status	: Married
+Nationality	: Indian
+
+I, Sanjay Kumar, declare that the above mentioned information is true to the best of my knowledge and nothing has been concealed or distorted.
+
+
+
+Sanjay Kumar
